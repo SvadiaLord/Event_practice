@@ -1,0 +1,7 @@
+C:\Users\Пользователь\source\repos\Event_practice\bin\Debug\Event_practice.exe.config
+C:\Users\Пользователь\source\repos\Event_practice\bin\Debug\Event_practice.exe
+C:\Users\Пользователь\source\repos\Event_practice\bin\Debug\Event_practice.pdb
+C:\Users\Пользователь\source\repos\Event_practice\obj\Debug\Event_practice.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Event_practice\obj\Debug\Event_practice.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Event_practice\obj\Debug\Event_practice.exe
+C:\Users\Пользователь\source\repos\Event_practice\obj\Debug\Event_practice.pdb
